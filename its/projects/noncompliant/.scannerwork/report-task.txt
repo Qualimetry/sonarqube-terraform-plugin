@@ -1,0 +1,6 @@
+projectKey=terraform-its-noncompliant
+serverUrl=https://acme.qualimetry.io/uat/sonar
+serverVersion=2025.6.1.117629
+dashboardUrl=https://acme.qualimetry.io/uat/sonar/dashboard?id=terraform-its-noncompliant
+ceTaskId=85cfb34a-6ddf-4f76-b0db-b9ffdae074f6
+ceTaskUrl=https://acme.qualimetry.io/uat/sonar/api/ce/task?id=85cfb34a-6ddf-4f76-b0db-b9ffdae074f6
